@@ -1,5 +1,7 @@
 {
   "name": "ionic-googlemap-sample",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
